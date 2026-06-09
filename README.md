@@ -102,7 +102,7 @@ public class Vishnu {
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 📈 **[Real-time Stock Dashboard](https://github.com/vishnu2927/stock-dashboard)** | Live stock/crypto prices, charts, portfolio tracker with WebSocket | React · Node.js · WebSocket · Chart.js | 🔨 Building |
-| 🤖 **[Smart Resume Analyzer](https://github.com/vishnu2927/resume-analyzer)** | AI-powered resume scoring, ATS analysis & improvement suggestions | MERN · Python · Groq AI | 🔨 Building |
+| 🤖 **[Smart Resume Analyzer](https://github.com/vishnu2927/resume-analyzer)** | AI-powered resume scoring, ATS analysis & improvement suggestions | MERN · Python · Groq AI | ✅ Live  |
 | 🎯 **[DSA Visualizer](https://github.com/vishnu2927/DSA-Visualizer)** | Step-by-step animations of 10+ sorting & graph algorithms | React · Java · Spring Boot | 📋 Planned |
 | 📰 **[V-News Application](https://github.com/vishnu2927/V-News-application)** | Real-time news aggregator with category filtering | HTML · CSS · JavaScript | ✅ Live |
 
