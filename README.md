@@ -157,14 +157,14 @@ public class Vishnu {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 ```
 📌  DSA Visualizer launch & open source on GitHub
-📌  100+ LeetCode problems solved
+📌  200+ LeetCode problems solved
 📌  Contribute to 2+ open source projects
 📌  Land a solid internship / placement
-📌  Build one more AI-powered full-stack project
+📌  Build two more AI-powered full-stack project
 ```
 
 ---
