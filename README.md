@@ -32,8 +32,7 @@ public class Vishnu {
     String location = "Ghaziabad, Uttar Pradesh, India";
 
     String[] currentlyBuilding = {
-        "Real-time Stock Dashboard (React + Node.js + WebSocket)",
-        "Smart Resume Analyzer (MERN + Python + Groq AI)"
+      
     };
 
     String[] achievements = {
