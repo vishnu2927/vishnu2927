@@ -32,8 +32,8 @@ public class Vishnu {
     String location = "Ghaziabad, Uttar Pradesh, India";
 
     String[] currentlyBuilding = {
-      
-    };
+      "DSA Visualizer (React + Framer Motion + TypeScript)"
+      };
 
     String[] achievements = {
         "🏆 HCL & GUVI National Hackathon — 1st Place (500+ teams)",
