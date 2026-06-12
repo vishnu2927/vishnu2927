@@ -14,7 +14,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+%40+RKGIT+AKTU;Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;National+Hackathon+Winner+%F0%9F%8F%86;Building+Real-World+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML)+%40+RKGIT+AKTU;Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;National+Hackathon+Winner+%F0%9F%8F%86;Building+Real-World+Solutions)
 
 </div>
 
@@ -32,14 +32,24 @@ public class Vishnu {
     String location = "Ghaziabad, Uttar Pradesh, India";
 
     String[] currentlyBuilding = {
-      "DSA Visualizer (React + Framer Motion + TypeScript)"
-      };
+        "DSA Visualizer (React + Framer Motion + TypeScript)"
+    };
+
+    String[] recentlyShipped = {
+        "✅ Real-time Stock Dashboard (React + Node.js + WebSocket)",
+        "✅ Smart Resume Analyzer (MERN + Python + Groq AI)"
+    };
 
     String[] achievements = {
         "🏆 HCL & GUVI National Hackathon — 1st Place (500+ teams)",
         "🏆 College Hackathon — 1st Place, RKGIT (2024)",
         "📜 NPTEL: Artificial Intelligence (IIT-delivered)",
         "💼 AI Intern @ Codec Technologies — reduced errors by 25%"
+    };
+
+    String[] currentlyLearning = {
+        "System Design & DSA (for placements)",
+        "TypeScript + Advanced React Patterns"
     };
 
     String funFact = "I turn coffee into code and algorithms into solutions ☕";
@@ -57,10 +67,12 @@ public class Vishnu {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -78,6 +90,7 @@ public class Vishnu {
 **AI / ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -100,8 +113,9 @@ public class Vishnu {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 📈 **[Real-time Stock Dashboard](https://github.com/vishnu2927/-Real-time-Stock-Dashboard)** | Live stock/crypto prices, charts, portfolio tracker with WebSocket | React · Node.js · WebSocket · Chart.js |✅ Live |
-| 🤖 **[Smart Resume Analyzer](https://github.com/vishnu2927/resume-analyzer)** | AI-powered resume scoring, ATS analysis & improvement suggestions | MERN · Python · Groq AI | ✅ Live  |
+| 🌿 **[DSA Visualizer](https://github.com/vishnu2927)** | Interactive visualizations of sorting, searching & graph algorithms with step-by-step animations | React · TypeScript · Framer Motion | 🔨 Building |
+| 📈 **[Real-time Stock Dashboard](https://github.com/vishnu2927/-Real-time-Stock-Dashboard)** | Live stock/crypto prices, charts, portfolio tracker with WebSocket | React · Node.js · WebSocket · Chart.js | ✅ Live |
+| 🤖 **[Smart Resume Analyzer](https://github.com/vishnu2927/resume-analyzer)** | AI-powered resume scoring, ATS analysis & improvement suggestions | MERN · Python · Groq AI | ✅ Live |
 | 📰 **[V-News Application](https://github.com/vishnu2927/V-News-application)** | Real-time news aggregator with category filtering | HTML · CSS · JavaScript | ✅ Live |
 
 </div>
@@ -140,6 +154,18 @@ public class Vishnu {
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu2927&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1D9E75&line=1D9E75&point=ffffff" width="100%"/>
+
+---
+
+## 🎯 2025 Goals
+
+```
+📌  DSA Visualizer launch & open source on GitHub
+📌  100+ LeetCode problems solved
+📌  Contribute to 2+ open source projects
+📌  Land a solid internship / placement
+📌  Build one more AI-powered full-stack project
+```
 
 ---
 
