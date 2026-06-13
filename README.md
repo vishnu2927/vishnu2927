@@ -134,6 +134,8 @@ public class Vishnu {
 
 💼 **AI Intern @ Codec Technologies** — built anomaly detection system reducing errors by ~25%
 
+🔥 **100+ LeetCode Problems Solved** — consistent DSA practice for placements
+
 </div>
 
 ---
@@ -161,7 +163,8 @@ public class Vishnu {
 
 ```
 📌  DSA Visualizer launch & open source on GitHub
-📌  200+ LeetCode problems solved
+✅  100+ LeetCode problems solved
+📌  200+ LeetCode problems — target 2025
 📌  Contribute to 2+ open source projects
 📌  Land a solid internship / placement
 📌  Build two more AI-powered full-stack project
