@@ -163,7 +163,7 @@ public class Vishnu {
 
 ```
 📌  DSA Visualizer launch & open source on GitHub
-✅  100+ LeetCode problems solved
+✅  100+ LeetCode solved — target 200+ by july 2026
 📌  200+ LeetCode problems — target 2025
 📌  Contribute to 2+ open source projects
 📌  Land a solid internship / placement
