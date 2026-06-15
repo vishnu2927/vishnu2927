@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0F6E56&height=200&section=header&text=Vishnu%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,50:0d7a5f,100:0F6E56&height=220&section=header&text=Vishnu%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Hackathon%20Champion%20%F0%9F%8F%86&descAlignY=56&descSize=16" width="100%"/>
+
+<br/>
 
 <a href="https://linkedin.com/in/vishnu-yadav-4476352ab">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -11,10 +13,11 @@
 <a href="https://github.com/vishnu2927">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=vishnu2927&color=1D9E75&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-<br/>
+<br/><br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML)+%40+RKGIT+AKTU;Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;National+Hackathon+Winner+%F0%9F%8F%86;Building+Real-World+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+ML)+%40+RKGIT+AKTU;Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;National+Hackathon+Winner+%F0%9F%8F%86+(500%2B+Teams);100%2B+LeetCode+%7C+Target+200%2B;Building+Real-World+AI+Solutions+%F0%9F%A4%96)
 
 </div>
 
@@ -44,11 +47,12 @@ public class Vishnu {
         "🏆 HCL & GUVI National Hackathon — 1st Place (500+ teams)",
         "🏆 College Hackathon — 1st Place, RKGIT (2024)",
         "📜 NPTEL: Artificial Intelligence (IIT-delivered)",
-        "💼 AI Intern @ Codec Technologies — reduced errors by 25%"
+        "💼 AI Intern @ Codec Technologies — reduced errors by 25%",
+        "🔥 100+ LeetCode Solved — Target 200+ by July 2026"
     };
 
     String[] currentlyLearning = {
-        "System Design & DSA (for placements)",
+        "System Design & Advanced DSA (placement prep)",
         "TypeScript + Advanced React Patterns"
     };
 
@@ -75,12 +79,14 @@ public class Vishnu {
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 **Database**
 
@@ -113,7 +119,7 @@ public class Vishnu {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🌿 **[DSA Visualizer](https://github.com/vishnu2927)** | Interactive visualizations of sorting, searching & graph algorithms with step-by-step animations | React · TypeScript · Framer Motion | 🔨 Building |
+| 🌿 **[DSA Visualizer](https://github.com/vishnu2927/DSA-Visualizer)** | Interactive visualizations of sorting, searching & graph algorithms with step-by-step animations | React · TypeScript · Framer Motion | 🔨 Building |
 | 📈 **[Real-time Stock Dashboard](https://github.com/vishnu2927/-Real-time-Stock-Dashboard)** | Live stock/crypto prices, charts, portfolio tracker with WebSocket | React · Node.js · WebSocket · Chart.js | ✅ Live |
 | 🤖 **[Smart Resume Analyzer](https://github.com/vishnu2927/resume-analyzer)** | AI-powered resume scoring, ATS analysis & improvement suggestions | MERN · Python · Groq AI | ✅ Live |
 | 📰 **[V-News Application](https://github.com/vishnu2927/V-News-application)** | Real-time news aggregator with category filtering | HTML · CSS · JavaScript | ✅ Live |
@@ -134,7 +140,7 @@ public class Vishnu {
 
 💼 **AI Intern @ Codec Technologies** — built anomaly detection system reducing errors by ~25%
 
-🔥 **100+ LeetCode Problems Solved** — consistent DSA practice for placements
+🔥 **100+ LeetCode Problems Solved** — consistent DSA practice | Target: 200+ by July 2026
 
 </div>
 
@@ -144,10 +150,13 @@ public class Vishnu {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishnu2927&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishnu2927&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu2927&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75" height="165"/>
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu2927&theme=tokyonight&hide_border=true&background=0d1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vishnu2927&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&layout=compact" width="49%"/>
 
 </div>
 
@@ -155,29 +164,46 @@ public class Vishnu {
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu2927&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1D9E75&line=1D9E75&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu2927&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1D9E75&line=1D9E75&point=ffffff&area=true&area_color=1D9E75" width="100%"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu2927/vishnu2927/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnu2927/vishnu2927/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vishnu2927/vishnu2927/output/github-snake.svg" />
+</picture>
 
 ---
 
 ## 🎯 2026 Goals
 
 ```
+✅  100+ LeetCode solved — target 200+ by July 2026
 📌  DSA Visualizer launch & open source on GitHub
-✅  100+ LeetCode problems solved
-📌  200+ LeetCode problems — target  by july 2026
 📌  Contribute to 2+ open source projects
 📌  Land a solid internship / placement
-📌  Build two more AI-powered full-stack project
+📌  Build two more AI-powered full-stack projects
 ```
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=120&section=footer" width="100%"/>
 
 **"First, solve the problem. Then, write the code." — John Johnson**
-
-![Profile Views](https://komarev.com/ghpvc/?username=vishnu2927&color=1D9E75&style=for-the-badge)
 
 </div>
