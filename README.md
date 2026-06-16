@@ -48,7 +48,7 @@ public class Vishnu {
         "🏆 College Hackathon — 1st Place, RKGIT (2024)",
         "📜 NPTEL: Artificial Intelligence (IIT-delivered)",
         "💼 AI Intern @ Codec Technologies — reduced errors by 25%",
-        "🔥 100+ LeetCode Solved — Target 200+ by July 2026"
+        "🔥 130+ LeetCode Solved (70 Medium) — Target 200+ by July 2026"
     };
 
     String[] currentlyLearning = {
@@ -140,7 +140,7 @@ public class Vishnu {
 
 💼 **AI Intern @ Codec Technologies** — built anomaly detection system reducing errors by ~25%
 
-🔥 **100+ LeetCode Problems Solved** — consistent DSA practice | Target: 200+ by July 2026
+🔥 **130+ LeetCode Problems Solved** — 70 Medium | Target: 200+ by July 2026
 
 </div>
 
@@ -181,7 +181,7 @@ public class Vishnu {
 ## 🎯 2026 Goals
 
 ```
-✅  100+ LeetCode solved — target 200+ by July 2026
+✅  130+ LeetCode solved (70 Medium) — target 200+ by July 2026
 📌  DSA Visualizer launch & open source on GitHub
 📌  Contribute to 2+ open source projects
 📌  Land a solid internship / placement
