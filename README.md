@@ -31,6 +31,7 @@ public class Vishnu {
     String name     = "Vishnu Yadav";
     String college  = "RKGIT, AKTU — Ghaziabad";
     String degree   = "B.Tech CSE (AI & ML) — 4th Year";
+    String batch    = "2023 – 2027";
     String email    = "vishnu29sep@gmail.com";
     String location = "Ghaziabad, Uttar Pradesh, India";
 
