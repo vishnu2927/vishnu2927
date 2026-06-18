@@ -49,7 +49,7 @@ public class Vishnu {
         "🏆 College Hackathon — 1st Place, RKGIT (2024)",
         "📜 NPTEL: Artificial Intelligence (IIT-delivered)",
         "💼 AI Intern @ Codec Technologies — reduced errors by 25%",
-        "🔥 130+ LeetCode Solved (70 Medium) — Target 200+ by July 2026"
+        "🔥 150+ LeetCode Solved (70 Medium) — Target 200+ by July 2026"
     };
 
     String[] currentlyLearning = {
@@ -141,7 +141,7 @@ public class Vishnu {
 
 💼 **AI Intern @ Codec Technologies** — built anomaly detection system reducing errors by ~25%
 
-🔥 **130+ LeetCode Problems Solved** — 70 Medium | Target: 200+ by July 2026
+🔥 **150+ LeetCode Problems Solved** — 70 Medium | Target: 200+ by July 2026
 
 </div>
 
