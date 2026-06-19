@@ -141,7 +141,7 @@ public class Vishnu {
 
 💼 **AI Intern @ Codec Technologies** — built anomaly detection system reducing errors by ~25%
 
-🔥 **150+ LeetCode Problems Solved** — 70 Medium | Target: 200+ by July 2026
+🔥 **150+ LeetCode Problems Solved** — 80+ Medium | Target: 200+ by July 2026
 
 </div>
 
@@ -182,7 +182,7 @@ public class Vishnu {
 ## 🎯 2026 Goals
 
 ```
-✅  130+ LeetCode solved (70 Medium) — target 200+ by July 2026
+✅  150+ LeetCode solved (80+ Medium) — target 200+ by July 2026
 📌  DSA Visualizer launch & open source on GitHub
 📌  Contribute to 2+ open source projects
 📌  Land a solid internship / placement
