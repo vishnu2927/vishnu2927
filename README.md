@@ -186,7 +186,7 @@ public class Vishnu {
 📌  DSA Visualizer launch & open source on GitHub
 📌  Contribute to 2+ open source projects
 📌  Land a solid internship / placement
-📌  Build one more AI-powered full-stack projects
+📌  Build two more AI-powered full-stack projects
 ```
 
 ---
