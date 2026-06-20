@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+ML)+%40+RKGIT+AKTU;Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;National+Hackathon+Winner+%F0%9F%8F%86+(500%2B+Teams);100%2B+LeetCode+%7C+Target+200%2B;Building+Real-World+AI+Solutions+%F0%9F%A4%96)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+ML)+%40+RKGIT+AKTU;Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;National+Hackathon+Winner+%F0%9F%8F%86+(500%2B+Teams);150%2B+LeetCode+%7C+Target+200%2B;Building+Real-World+AI+Solutions+%F0%9F%A4%96)
 
 </div>
 
@@ -36,7 +36,8 @@ public class Vishnu {
     String location = "Ghaziabad, Uttar Pradesh, India";
 
     String[] currentlyBuilding = {
-        "DSA Visualizer (React + Framer Motion + TypeScript)"
+        "DSA Visualizer (React + Framer Motion + TypeScript)",
+        "Patient Management System (React + Spring Boot + MySQL + Groq AI)"
     };
 
     String[] recentlyShipped = {
@@ -120,6 +121,7 @@ public class Vishnu {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
+| 🏥 **[Patient Management System](https://github.com/vishnu2927/patient-management-system)** | AI-powered hospital management — patients, doctors, appointments & billing with Groq AI insights | React · Spring Boot · MySQL · Groq AI | 🔨 Building |
 | 🌿 **[DSA Visualizer](https://github.com/vishnu2927/DSA-Visualizer)** | Interactive visualizations of sorting, searching & graph algorithms with step-by-step animations | React · TypeScript · Framer Motion | 🔨 Building |
 | 📈 **[Real-time Stock Dashboard](https://github.com/vishnu2927/-Real-time-Stock-Dashboard)** | Live stock/crypto prices, charts, portfolio tracker with WebSocket | React · Node.js · WebSocket · Chart.js | ✅ Live |
 | 🤖 **[Smart Resume Analyzer](https://github.com/vishnu2927/resume-analyzer)** | AI-powered resume scoring, ATS analysis & improvement suggestions | MERN · Python · Groq AI | ✅ Live |
@@ -183,6 +185,7 @@ public class Vishnu {
 
 ```
 ✅  150+ LeetCode solved (80+ Medium) — target 200+ by July 2026
+📌  Patient Management System launch
 📌  DSA Visualizer launch & open source on GitHub
 📌  Contribute to 2+ open source projects
 📌  Land a solid internship / placement
