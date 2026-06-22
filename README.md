@@ -135,7 +135,7 @@ public class Vishnu {
 
 <div align="center">
 
-🥇 **HCL & GUVI National Hackathon** — 1st Place among **500+ teams** nationwide (2024)
+🥇 **HCL & GUVI National Hackathon** — 1st Place among **100+ teams** nationwide (2024)
 
 🥇 **College Hackathon** — 1st Place, RKGIT (2024) — delivered complete product in 24 hours
 
