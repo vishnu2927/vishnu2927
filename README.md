@@ -184,7 +184,7 @@ public class Vishnu {
 ## 🎯 2026 Goals
 
 ```
-✅  150+ LeetCode solved (80+ Medium) — target 200+ by July 2026
+✅  150+ LeetCode solved (80+ Medium) — target 250+ by July 2026
 📌  Patient Management System launch
 📌  DSA Visualizer launch & open source on GitHub
 📌  Contribute to 2+ open source projects
