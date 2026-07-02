@@ -46,8 +46,8 @@ public class Vishnu {
     };
 
     String[] achievements = {
-        "🏆 HCL & GUVI National Hackathon — 1st Place (500+ teams)",
-        "🏆 College Hackathon — 1st Place, RKGIT (2024)",
+        "🏆 HCL & GUVI National Hackathon ",
+        "🏆 College Hackathon —  RKGIT (2024)",
         "📜 NPTEL: Artificial Intelligence (IIT-delivered)",
         "💼 AI Intern @ Codec Technologies — reduced errors by 25%",
         "🔥 150+ LeetCode Solved (80+ Medium) — Target 250+ by July 2026"
