@@ -121,7 +121,7 @@ public class Vishnu {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🏥 **[Patient Management System](https://github.com/vishnu2927/patient-management-system)** | AI-powered hospital management — patients, doctors, appointments & billing with Groq AI insights | React · Spring Boot · MySQL · Groq AI | 🔨 Building |
+| 🏥 **[Patient Management System](https://github.com/vishnu2927/patient-management-system)** | AI-powered hospital management — patients, doctors, appointments & billing with Groq AI insights | React · Spring Boot · MySQL · Groq AI | 🔨 planned |
 | 🌿 **[DSA Visualizer](https://github.com/vishnu2927/DSA-Visualizer)** | Interactive visualizations of sorting, searching & graph algorithms with step-by-step animations | React · TypeScript · Framer Motion | 🔨 Building |
 | 📈 **[Real-time Stock Dashboard](https://github.com/vishnu2927/-Real-time-Stock-Dashboard)** | Live stock/crypto prices, charts, portfolio tracker with WebSocket | React · Node.js · WebSocket · Chart.js | ✅ Live |
 | 🤖 **[Smart Resume Analyzer](https://github.com/vishnu2927/resume-analyzer)** | AI-powered resume scoring, ATS analysis & improvement suggestions | MERN · Python · Groq AI | ✅ Live |
