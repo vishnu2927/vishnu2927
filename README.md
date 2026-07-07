@@ -124,7 +124,7 @@ public class Vishnu {
 | 🏥 **[Patient Management System](https://github.com/vishnu2927/patient-management-system)** | AI-powered hospital management — patients, doctors, appointments & Groq AI Symptom Checker | React · Spring Boot · MySQL · Groq AI | ✅ [Live](https://patient-management-system-three-roan.vercel.app) |
 | 🌿 **[DSA Visualizer](https://github.com/vishnu2927/DSA-Visualizer)** | Interactive visualizations of sorting, searching & graph algorithms with step-by-step animations | React · TypeScript · Framer Motion | 🔨 Building |
 | 📈 **[Real-time Stock Dashboard](https://github.com/vishnu2927/-Real-time-Stock-Dashboard)** | Live stock/crypto prices, charts, portfolio tracker with WebSocket | React · Node.js · WebSocket · Chart.js | ✅ [Live](https://real-time-stock-dashboard-client.vercel.app/) |
-| 🤖 **[Smart Resume Analyzer](https://github.com/vishnu2927/resume-analyzer)** | AI-powered resume scoring, ATS analysis & improvement suggestions | MERN · Python · Groq AI | ✅ Live |
+| 🤖 **[Smart Resume Analyzer](https://github.com/vishnu2927/resume-analyzer)** | AI-powered resume scoring, ATS analysis & improvement suggestions | MERN · Python · Groq AI | ✅ [Live](https://resume-analyzer-lo2eekle7-vishnu29sep-7169s-projects.vercel.app/) |
 | 📰 **[V-News Application](https://github.com/vishnu2927/V-News-application)** | Real-time news aggregator with category filtering | HTML · CSS · JavaScript | ✅ Live |
 
 </div>
