@@ -143,7 +143,7 @@ public class Vishnu {
 
 💼 **AI Intern @ Codec Technologies** — built anomaly detection system reducing errors by ~25%
 
-🔥 **150+ LeetCode Problems Solved** — 80+ Medium | Target: 200+ by July 2026
+🔥 **150+ LeetCode Problems Solved** — 90+ Medium | Target: 200+ by July 2026
 
 </div>
 
