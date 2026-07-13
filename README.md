@@ -50,7 +50,7 @@ public class Vishnu {
         "🏆 College Hackathon —  RKGIT (2024)",
         "📜 NPTEL: Artificial Intelligence (IIT-delivered)",
         "💼 AI Intern @ Codec Technologies — reduced errors by 25%",
-        "🔥 150+ LeetCode Solved (90+ Medium) — Target 250+ by July 2026"
+        "🔥 170+ LeetCode Solved (90+ Medium) — Target 250+ by July 2026"
     };
 
     String[] currentlyLearning = {
