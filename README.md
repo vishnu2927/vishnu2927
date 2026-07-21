@@ -41,6 +41,7 @@ public class Vishnu {
     };
 
     String[] recentlyShipped = {
+        "✅ KrishiConnect (Next.js + Firebase + Genkit AI)",
         "✅ Real-time Stock Dashboard (React + Node.js + WebSocket)",
         "✅ Smart Resume Analyzer (MERN + Python + Groq AI)"
     };
@@ -78,6 +79,7 @@ public class Vishnu {
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -88,6 +90,7 @@ public class Vishnu {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 **Database**
@@ -99,6 +102,7 @@ public class Vishnu {
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -122,6 +126,7 @@ public class Vishnu {
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 🏥 **[Patient Management System](https://github.com/vishnu2927/patient-management-system)** | AI-powered hospital management — patients, doctors, appointments & Groq AI Symptom Checker | React · Spring Boot · MySQL · Groq AI | ✅ [Live](https://patient-management-system-three-roan.vercel.app) |
+| 🌾 **[KrishiConnect](https://github.com/vishnu2927/KrishiConnect)** | AI-powered smart agriculture platform — crop disease diagnosis, weather forecasting & soil health analysis | Next.js · TypeScript · Firebase · Genkit AI | ✅ Live |
 | 🌿 **[DSA Visualizer](https://github.com/vishnu2927/DSA-Visualizer)** | Interactive visualizations of sorting, searching & graph algorithms with step-by-step animations | React · TypeScript · Framer Motion | 🔨 planned |
 | 📈 **[Real-time Stock Dashboard](https://github.com/vishnu2927/-Real-time-Stock-Dashboard)** | Live stock/crypto prices, charts, portfolio tracker with WebSocket | React · Node.js · WebSocket · Chart.js | ✅ [Live](https://real-time-stock-dashboard-client.vercel.app/) |
 | 🤖 **[Smart Resume Analyzer](https://github.com/vishnu2927/resume-analyzer)** | AI-powered resume scoring, ATS analysis & improvement suggestions | MERN · Python · Groq AI | ✅ [Live](https://resume-analyzer-lo2eekle7-vishnu29sep-7169s-projects.vercel.app/) |
